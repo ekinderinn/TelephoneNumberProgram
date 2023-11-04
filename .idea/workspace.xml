@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd6de22-4c5c-4405-b5a9-b9198ffe833e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TelephoneNumberProgram.java" afterDir="false" />
+    <list default="true" id="9bd6de22-4c5c-4405-b5a9-b9198ffe833e" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TelephoneEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TelephoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TelephoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TelephoneNumberProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TelephoneNumberProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699114485522</updated>
-      <workItem from="1699114485911" duration="454000" />
+      <workItem from="1699114485911" duration="8340000" />
     </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1699115027677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699115027677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
   </component>
 </project>
